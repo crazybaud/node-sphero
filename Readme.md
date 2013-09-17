@@ -1,12 +1,12 @@
 # Node Sphero
 
 ## About this fork
-Goal are :
+Goals are :
 - resolve dependency issue
 - add access to Sphero while charging (not done yet)
 
 Next step :
-- to check [spheron](https://github.com/alchemycs/spheron)
+- check [spheron](https://github.com/alchemycs/spheron)
 
 ## How to use
 
